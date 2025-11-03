@@ -13,6 +13,7 @@ namespace MyProject
             Console.WriteLine("hi");
             Console.WriteLine("hello");
             Console.WriteLine("Welcome");
+            Console.WriteLine("New line");
         }
     }
 }
