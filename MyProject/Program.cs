@@ -11,6 +11,7 @@ namespace MyProject
         static void Main(string[] args)
         {
             Console.WriteLine("hi");
+            Console.WriteLine("hello");
         }
     }
 }
